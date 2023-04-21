@@ -19,7 +19,7 @@ provider "aws" {
   region = var.region
   default_tags {
     tags = {
-      Project = "Coffee-Mug-Cake"
+      Project = "terraform cloud workflow"
       Owner   = "jerry & tom"
     }
   }
